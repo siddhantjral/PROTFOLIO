@@ -21,6 +21,10 @@
     justify-content: space-between;
 }
 
+.logo{
+    width: 125px;
+    cursor: pointer;
+}
 
 .navbar ul li{
     list-style: none;
